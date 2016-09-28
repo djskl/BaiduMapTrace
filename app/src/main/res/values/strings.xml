@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">轨迹追踪</string>
+    <string name="offline_map">离线地图</string>
+</resources>

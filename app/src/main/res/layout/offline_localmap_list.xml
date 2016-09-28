@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="10dip" >
+
+    <TextView
+        android:id="@+id/cityName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="已下载城市 " />
+
+    <TextView
+        android:id="@+id/cityVersion"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="版本" />
+
+    <TextView
+        android:id="@+id/cityRatio"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textColor="#FF0000"
+        android:text="进度" />
+
+    <Button
+        android:id="@+id/stop_download"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:background="#f7c910"
+        android:textColor="#ffffff"
+        android:text="暂停"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/start_download"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:background="#7be30c"
+        android:textColor="#ffffff"
+        android:text="开始"
+        android:layout_marginLeft="5dp"  />
+
+    <Button
+        android:id="@+id/cityRemoveBtn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:text="删除"
+        android:background="#c20a0a"
+        android:textColor="#ffffff"
+        android:layout_marginLeft="5dp" />
+
+</LinearLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/BaiduMaps/MyTrace/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c6366ead8bca37b1e54efce9e017493ef5674a19">
+        <dex dex="/root/BaiduMaps/MyTrace/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1e5c890e28cca2cc3ab530e6741ea491e3c87f40/classes.dex" />
+    </item>
+    <item
+        jar="/root/BaiduMaps/MyTrace/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/root/BaiduMaps/MyTrace/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_d75daf45f3ce5658250bd5e3d719d9f044ab8cf0/classes.dex" />
+    </item>
+    <item
+        jar="/root/BaiduMaps/MyTrace/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/root/BaiduMaps/MyTrace/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_344862af8f9482085fecbcc2487cd166dd0885ea/classes.dex" />
+    </item>
+    <item
+        jar="/root/BaiduMaps/MyTrace/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/root/BaiduMaps/MyTrace/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_445944b6a99db0c0075d6b9e3df0bdcca3da70f9/classes.dex" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/root/BaiduMaps/MyTrace/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_c0262899f41df7046f4bf9a45e5f3fed820a52fd/classes.dex" />
+    </item>
+    <item
+        jar="/root/BaiduMaps/MyTrace/app/libs/BaiduLBS_Android_v4_0_0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3658c504be06acda2daef9d3092eb4a0438425b8">
+        <dex dex="/root/BaiduMaps/MyTrace/app/build/intermediates/transforms/dex/debug/folders/1000/2/BaiduLBS_Android_v4_0_0_4ce850fcb3e2c25d1ada0c2ada88ffd7ea6494b9/classes.dex" />
+    </item>
+    <item
+        jar="/root/BaiduMaps/MyTrace/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="69f0c3ad8c0f9596bef375676774d0142b5b76b0">
+        <dex dex="/root/BaiduMaps/MyTrace/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3a9a61b37f3645c8b36f62e9849d9299c853a3ee/classes.dex" />
+    </item>
+    <item
+        jar="/root/BaiduMaps/MyTrace/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/root/BaiduMaps/MyTrace/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_53257361bb92a9c383c7e7ed27db09decfa38ab6/classes.dex" />
+    </item>
+    <item
+        jar="/root/BaiduMaps/MyTrace/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/root/BaiduMaps/MyTrace/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_8c3c7dc687cc77ce97afb9f1774f7e2ab1bc7ce7/classes.dex" />
+    </item>
+
+</items>
